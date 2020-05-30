@@ -1,0 +1,25 @@
+<resources>
+
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=63:CB:92:46:4C:55:35:02:1C:D8:FB:60:B9:93:1A:8B:E8:88:01:B2%3Bcom.example.radiolocator
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.radiolocator
+
+    SHA-1 certificate fingerprint:
+    63:CB:92:46:4C:55:35:02:1C:D8:FB:60:B9:93:1A:8B:E8:88:01:B2
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false">AIzaSyBA2A8LKVMg0IwR67AlSXTx8ox1NluaFrE</string>
+</resources>
